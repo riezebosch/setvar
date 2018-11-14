@@ -1,5 +1,7 @@
 # setvar
 
+[![Build Status](https://manuel.visualstudio.com/setvar/_apis/build/status/riezebosch.setvar)](https://manuel.visualstudio.com/setvar/_build/latest?definitionId=23)
+
 Transform output from a tool into [pipeline variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=vsts&tabs=yaml%2Cbatch#set-a-job-scoped-variable-from-a-script) for your Azure Pipelines.
 
 Instead of 
